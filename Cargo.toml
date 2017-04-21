@@ -3,6 +3,10 @@ name = "hammer"
 version = "0.1.0"
 authors = ["Tom Schroeder <j.tom.schroeder@gmail.com>"]
 
+description = "Simple one-liner web server."
+license = "MIT"
+repository = "https://github.com/jtomschroeder/hammer"
+
 [dependencies]
 staticfile = "0.4.0"
 iron = "0.5"
